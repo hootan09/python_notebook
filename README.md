@@ -29,3 +29,12 @@ $ jupyter-notebook
 ! pip install numpy
 ```
 
+#### Access Jupyter from Server
+```sh
+#!/usr/bin/bash
+
+#Set Password to jupyter
+#jupyter notebook password
+
+jupyter notebook --ip 0.0.0.0 --port 8888
+```

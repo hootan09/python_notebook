@@ -41,6 +41,7 @@ jupyter notebook --ip 0.0.0.0 --port 8888
 
 #### Windows Bat File
 ```sh
+# jupyter-notebook.bat
 cd C:\Users\niki\Desktop\projects\Python_Jupyter
 call myenv\Scripts\activate.bat
 :: call pip install -r requirements.txt

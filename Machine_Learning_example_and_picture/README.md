@@ -10,15 +10,11 @@ Useful Links:
 <table>
   <tr>
     <td>simpe 2x-1 function to model</td>
-  </tr>
-  <tr>
-    <td><img src="simple(2x-1).png" width=800 height=600></td>
-  </tr>
-    <tr>
      <td>relu</td>
      <td>softmax</td>
   </tr>
   <tr>
+    <td><img src="simple(2x-1).png" width=800 height=300></td>
     <td><img src="relu.png" width=800 height=300></td>
     <td><img src="softmax.png" width=800 height=300></td>
   </tr>

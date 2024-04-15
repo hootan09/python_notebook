@@ -4,3 +4,8 @@ Code/llama_7b_unfilter/open_llama_7b_qlora_uncensored
 Code/gpt2/test_gpt2/
 Code/gpt2/test_gpt2_web_model
 Code/gpt2/test_gpt2.rar
+Code/GPT2_persian/fa_corpus/*
+Code/GPT2_persian/model/*
+Code/GPT2_persian/fawiki-latest-pages-articles.xml.bz2
+Code/GPT2_persian/fa_corpus/article_1048.txt
+Code/GPT2_persian/model_fa.pt
